@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap');
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.navbtn{
+  background-color: blue;
+}
+.mainHeader{
+  color:blue;
+  font-variant: normal;
+  font-weight: bold;
+  font-size: 0.975em
+}
+.signIn{
+  color:rgb(43, 37, 37);
+}
+.heroHeader{
+  color: rgb(33, 33, 37);
+}
+.heroTitle{
+  color: blue;
+}
+.heroBtn{
+  background-color: blue;
+  font-size: 0.975em
+}

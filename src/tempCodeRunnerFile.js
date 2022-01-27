@@ -1,0 +1,1 @@
+p-purple-900 bg-teal-accent-400 hover:bg-teal-700 
